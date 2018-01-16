@@ -1,4 +1,5 @@
 require "str_djungst/version"
+require "str_djungst/greetings"
 
 module StrDjungst
 
